@@ -1,6 +1,6 @@
  package programers.basic.day04;
 
-//n의 배수
+//n의 배수 
 public class MultipleOfN {
     public int solution(int num, int n) {
         //n이 num 의 배수 = num/n 했을 때 나머지가 0
